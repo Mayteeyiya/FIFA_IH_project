@@ -1,7 +1,7 @@
 # FIFA_IH_project
 My first Ironhack project.
 
-The instructions where:
+The instructions:
 
 Open the file in `file_for_project/fifa21_training.csv`. The objective is to create the best linear model to predict the column `OVA`.
 
